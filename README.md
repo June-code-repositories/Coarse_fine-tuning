@@ -11,5 +11,5 @@
 
 ## Training  
 
-- The executable script is coarse_refine_reposit.py in the root directory. 
+- The executable script is coarse_refine_reposit.py in the root directory
 - Before training, all datasets needs to be unzip
